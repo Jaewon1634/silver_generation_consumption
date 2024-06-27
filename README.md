@@ -16,10 +16,10 @@
 - 롯데 멤버스 사 전국 백화점 구매 고객 데이터
 
 ## 📌 **주요 분석 전략**
-- 액티브 시니어 세대 Bravo Lifestyle 특성 기반 분석
+- 액티브 시니어 세대 Bravo Lifestyle 특성 기반 추론
 - RFM 기반 분석
 
-## 📌 **Bravo Lifestyle**
+### - **Bravo Lifestyle**
 - 소비잠재력이 높은 55세 ~ 75세 구매고객을 액티브 시니어 세대로 분류
 - 액티브 시니어 세대의 특성을 반영하는 Lifestyle
 - B(Brankable) : 노후생활 준비
@@ -27,29 +27,21 @@
 - A(Active) : 평생 교육 희망
 - V(Value consumption) : 합리적 소비
 - O(Occupation) : 노후 희망 활동
+
+<br/>
+<br/>
+
 <img src="image/Bravo lifestyle.png" alt="Bravo Lifestyle" width="600"/>
 
-### 🌌 **1) 워드클라우드**
-- 각 게임사별 주요 키워드 직관적 파악
-- 제목을 중심으로 분석하여 정확도 유지
-- ex) 넷마블 워드클라우드 시각화
-<img src="Analysis_picture/넷마블_워드클라우드.png" alt="워드클라우드 시각화" width="600"/>
+### - **RFM Analysis**
+- R(Recency) : 얼마나 최근에 구매했는가
+- F(Frequency) : 얼마나 자주 구매했는가
+- M(Monetary) : 얼마나 많은 금액을 지출했는가
 
-### 🔮 **2) LDA 토픽 모델링**
-- 검색어별 토픽 차이 검증
-- 회사별 새로운 인사이트 기대
-- 제목과 본문을 모두 활용한 토픽 추출
-- ex) 넷마블 LDA 시각화
-<img src="Analysis_picture/넷마블_LDA.png" alt="LDA 토픽 모델링 시각화" width="600"/>
+<br/>
 
-### 📊 **3) 유사도 분석**
-- 게임사별 전략과 특징 비교
-- 중요 단어를 사용한 자카드, 코사인 유사도 분석
-- ex) Contents Jaccard 유사도 시각화
-<img src="Analysis_picture/BODY_자카드유사도.png" alt="유사도 분석 시각화" width="600"/>
+## 📝 **분석 결과 및 결론**
 
-## 📝 **4. 분석 결과 및 결론**
+- 라이프스타일 특성 기반 백화점운영 5가지 개선방안 제시
 
-- 분석을 통해 도출한 사회적 가치 설명
-- 개선점 및 추후 연구 방향 제시
 
