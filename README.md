@@ -26,8 +26,8 @@
 - R(Releation) : 단체활동 참여
 - A(Active) : 평생 교육 희망
 - V(Value consumption) : 합리적 소비
-- O(Occupation) : 노후 희망 활
-   
+- O(Occupation) : 노후 희망 활동
+<img src="image/Bravo lifestyle.png" alt="Bravo Lifestyle" width="600"/>
 
 ### 🌌 **1) 워드클라우드**
 - 각 게임사별 주요 키워드 직관적 파악
